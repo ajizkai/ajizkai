@@ -1,3 +1,3 @@
 # Welcome !
 
-trying to build Infrastructure Development Lifecycle 🚀
+has set out to lifelong learning :)
